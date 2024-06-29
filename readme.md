@@ -48,6 +48,6 @@ git push -u origin main
 
 Спасибо вам !!!
 
-s
+
 
   
